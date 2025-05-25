@@ -119,7 +119,7 @@ Analyzed directed ego-networks from Google+, focusing on community detection and
 .
 ├── Project1.R               # Main R script for all analyses
 ├── facebook_combined.txt   # Facebook network edgelist (not included)
-├── gplus/                   # Directory with Google+ .edges and .circles files
+├── gplus/                   # Directory with Google+ .edges and .circles files (not included)
 └── README.md               # Project overview and instructions
 ```
 
