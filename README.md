@@ -1,4 +1,4 @@
-# EE232E Project 1: Facebook and Google+ Network Analysis
+# Facebook and Google+ Network Analysis
 
 This project, developed as part of UCLA EE232E - *Graphs and Network Flows*, explores real-world social network data (Facebook and Google+) using various graph-theoretic and statistical techniques to analyze structure, detect communities, and evaluate social metrics such as embeddedness and dispersion.
 
