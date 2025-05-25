@@ -125,7 +125,7 @@ Analyzed directed ego-networks from Google+, focusing on community detection and
 
 ---
 
-## eferences
+## References
 
 - [igraph R documentation](https://igraph.org/r/)
 - Facebook & Google+ datasets from Stanford SNAP
