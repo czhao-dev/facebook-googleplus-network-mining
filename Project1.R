@@ -1,8 +1,3 @@
-# EE232E Project 1
-# Yexuan Chen   UID: 604-734-603
-# Xuerui Yan    UID: 704-775-730
-# Charles Zhao  UID: 504-138-548
-
 library("igraph")
 
 # QUESTION 1
