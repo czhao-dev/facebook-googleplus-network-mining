@@ -2,7 +2,6 @@
 
 This project, developed as part of UCLA EE232E - *Graphs and Network Flows*, explores real-world social network data (Facebook and Google+) using various graph-theoretic and statistical techniques to analyze structure, detect communities, and evaluate social metrics such as embeddedness and dispersion.
 
----
 
 ## Project Overview
 
@@ -46,7 +45,6 @@ Utilizing a dataset of 4,039 nodes and 88,234 edges from Facebook, the following
      - **Type 2**: High clustering & low modularity
    - Identified these recurring types across multiple personal networks.
 
----
 
 ### Part 2: Google+ Ego Network Analysis
 
@@ -62,7 +60,6 @@ Analyzed directed ego-networks from Google+, focusing on community detection and
     - High match scores indicate community-aligned tagging.
     - Low scores suggest overlapping or inconsistent user tagging behavior.
 
----
 
 ## Technologies Used
 
@@ -72,7 +69,6 @@ Analyzed directed ego-networks from Google+, focusing on community detection and
   - Facebook: `facebook_combined.txt`
   - Google+: `gplus/` folder (with `.edges` and `.circles` files)
 
----
 
 ## How to Run
 
@@ -102,7 +98,6 @@ Analyzed directed ego-networks from Google+, focusing on community detection and
    - For Google+ analysis, the script will iterate through all ego networks.
    - Console will print progress for each user.
 
----
 
 ## Results Highlights
 
@@ -111,7 +106,6 @@ Analyzed directed ego-networks from Google+, focusing on community detection and
 - Infomap and Walktrap outperform in matching Google+ circles with actual community structure.
 - Novel identification of two common community types using statistical measures.
 
----
 
 ## File Structure
 
@@ -123,10 +117,12 @@ Analyzed directed ego-networks from Google+, focusing on community detection and
 └── README.md               # Project overview and instructions
 ```
 
----
 
 ## References
 
 - [igraph R documentation](https://igraph.org/r/)
 - Facebook & Google+ datasets from Stanford SNAP
 - EE232E course materials
+
+## License
+This project is released for academic and research purposes. Please credit the source if used in publications or derivative works.
